@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/progress-barg/static/css/main.f31d5919.css",
+    "main.js": "/progress-barg/static/js/main.4ea6ae34.js",
+    "index.html": "/progress-barg/index.html",
+    "main.f31d5919.css.map": "/progress-barg/static/css/main.f31d5919.css.map",
+    "main.4ea6ae34.js.map": "/progress-barg/static/js/main.4ea6ae34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f31d5919.css",
+    "static/js/main.4ea6ae34.js"
+  ]
+}
